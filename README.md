@@ -26,5 +26,8 @@ python t900.py
 ## Build EXE
 py -m PyInstaller --onefile --noconsole t900.py
 
+## Download
+[Download T-900 Chatbot](https://github.com/VizperDrows/ai-chatbot/releases)
+
 
 
